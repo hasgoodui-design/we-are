@@ -1,39 +1,23 @@
-title: Template
+title: hasgoodui.design
 timezone: Europe/Zurich
 collections:
-  posts:
-    title: Posts
-    output: true
-  steps:
-    title: Steps
-    output: false
   uploads:
     title: Uploads
-    output: true
-  tags:
-    title: Tags
     output: true
   authors:
     title: Authors
     output: false
-defaults:
-- scope:
-    path: ''
-    type: steps
-  values:
-    title: 
-    date: 2016-09-01 00:00:00 -0700
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: Replace with an overall description.
+description: Main website of the hasgoodui.design Organisation.
 baseurl: ""
-url: https://template.hasgoodui.design
+url: https://we-are.hasgoodui.design
 color: "#0d1117"
 
-github-repo: 'Template'
+github-repo: 'we-are'
 
-footer-description: A template for future `hasgoodui.design` websites.
+footer-description: Main website of the hasgoodui.design Organisation.
 
 plugins:
   - github-pages

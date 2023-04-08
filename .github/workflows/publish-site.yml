@@ -3,7 +3,7 @@ name: Deploy to gh-pages
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - '.github/workflows/publish-site.yml'
       - 'site/**'
@@ -23,5 +23,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
-          cname: actually.hasgoodui.design
+          cname: we-are.hasgoodui.design
           enable_jekyll: true
