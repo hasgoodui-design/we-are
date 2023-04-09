@@ -106,6 +106,7 @@ h2 {
 h2 code {
     padding: 0 .2em;
     font-size: inherit;
+    line-break: anywhere;
 }
 
 h3 {
@@ -194,6 +195,7 @@ code {
     padding: .2em .4em;
     background-color: var(--font-color__code);
     border-radius: 6px;
+    line-break: anywhere;
 }
 
 /* Classes */
