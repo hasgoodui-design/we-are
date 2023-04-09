@@ -13,15 +13,6 @@
     </ul>
   </div>
   <div class="grid-child">
-    <h5>Tags</h5>
-    {% include tags-list.html %}
-    <ul>
-    {% for tag in tags %}
-      <li><a href="{{ site.baseurl }}/tags/{{ tag }}">#{{ tag }}</a></li>
-    {% endfor %}
-    </ul>
-  </div>
-  <div class="grid-child">
     <h5>Maintainers</h5>
     <p>
       {% assign authors = site.authors %}
