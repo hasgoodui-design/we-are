@@ -9,6 +9,10 @@ layout: default
 Our main goal is not to attack those individuals, but to poke fun at their mistakes.  
 We also have a page called [`actually.hasgoodui.design`][actually good] where we list sites, services, etc. that have unironically good designs used.
 
+## Our Websites
+
+A list of our current websites found under the `hasgoodui.design` domain can be found on our GitHub Organisation: https://github.com/hasgoodui-design
+
 ## Submit entries
 
 We are always welcome for your input regarding new entries for existing sites, or even new sites that should be added.
