@@ -11,7 +11,7 @@ We also have a page called [`actually.hasgoodui.design`][actually good] where we
 
 ## Our Websites
 
-A list of our current websites found under the `hasgoodui.design` domain can be found on our GitHub Organisation: https://github.com/hasgoodui-design
+A list of our current websites found under the `hasgoodui.design` domain can be found on our GitHub Organisation: [https://github.com/hasgoodui-design](https://github.com/hasgoodui-design)
 
 ## Submit entries
 
