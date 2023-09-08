@@ -1,15 +1,12 @@
 # We are `hasgoodui.design`
 
-This is the repository holding the content used for [`we-are.hasgoodui.design`][we-are].
+This repository houses the source of the website found at [`we-are.hasgoodui.design`][website].
 
-Feel free to submit Pull requests to further improve the site.
+Feel free to submit Pull requests to improve the site.
 
 ## Credits
 
-- Page build using [Jekyll][jekyll] and the [Jekyll Timeline Theme][theme]
-- SVG icons used from [GitHub's Octicons][octicons]
+- Website built using [MkDocs] and the [Material for MkDocs theme][theme]
 
-[we-are]: https://we-are.hasgoodui.design
-[jekyll]: https://jekyllrb.com/
-[theme]: https://github.com/lukas-h/jekyll-timeline
-[octicons]: https://primer.style/octicons
+[mkdocs]: https://www.mkdocs.org
+[theme]: https://squidfunk.github.io/mkdocs-material
