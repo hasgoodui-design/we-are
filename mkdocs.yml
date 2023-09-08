@@ -15,6 +15,7 @@ nav:
 theme:
   name: material
   logo: assets/images/favicons/android-chrome-512x512.png
+  favicon: assets/images/favicons/android-chrome-512x512.png
   palette:
     scheme: custom_dark
 
