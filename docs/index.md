@@ -15,7 +15,27 @@ We also offer a site under the subdomain [`actually.hasgoodui.design`][actually-
 
 ## Our Websites
 
-A current list of our Sites under the `hasgoodui.design` domain can be found [on our GitHub Organization][org]{ target="_blank" rel="nofollow noreferral noopener" }.
+Below can you see a list of all sites hosted on the `hasgoodui.design` domain. Click them to visit the site.
+
+::cards::
+
+[
+  {
+    "title": ":simple-discord: Discord<small>.hasgoodui.design</small>",
+    "content": "Showing the strange UI designs of Discord",
+    "url": "https://discord.hasgoodui.design"
+  },
+  {
+    "title": ":octicons-check-24: Actually<small>.hasgoodui.design</small>",
+    "content": "Some actual good UI designs",
+    "url": "https://actually.hasgoodui.design"
+  }
+]
+
+::/cards::
+
+
+
 
 ## Submitting Entries
 
