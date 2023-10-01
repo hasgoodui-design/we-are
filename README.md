@@ -8,5 +8,6 @@ Feel free to submit Pull requests to improve the site.
 
 - Website built using [MkDocs] and the [Material for MkDocs theme][theme]
 
+[website]: https://we-are.hasgoodui.design
 [mkdocs]: https://www.mkdocs.org
 [theme]: https://squidfunk.github.io/mkdocs-material
