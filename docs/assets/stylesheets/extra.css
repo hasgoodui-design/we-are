@@ -1,5 +1,7 @@
 :root {
     --template-columns: 2;
+    --md-cards-color: #448aff;
+    --md-cards-color--transparent: #448aff1a;
 }
 
 @media only screen and (max-width: 500px) {
@@ -26,21 +28,16 @@
 .nt-card {
     padding: .1rem .5rem;
     margin: .5rem;
-    box-shadow: 0 2px 2px 0 rgba(139, 252, 255, .14),
-                0 3px 1px -2px rgba(139, 252, 255, 0.47),
-                0 1px 5px 0 rgba(139, 252, 255, .64);
+    border: 1px solid var(--md-cards-color);
+    border-radius: .2rem;
     transition: box-shadow 125ms ease-in-out,
                 background-color 125ms ease-in-out;
-    -webkit-transition: box-shadow 125ms ease-in-out,
-                        background-color 125ms ease-in-out;
-    background-color: rgba(139, 252, 255, .05);
+    -webkit-transition: background-color 125ms ease-in-out;
+    background-color: var(--md-cards-color--transparent);
 }
 
 .nt-card:hover {
-    box-shadow: 0 2px 2px 0 rgba(139, 252, 255, .28),
-                0 3px 1px -2px rgba(139, 252, 255, 0.94),
-                0 1px 5px 0 rgba(139, 252, 255, 1);
-    background-color: rgba(139, 252, 255, .15);
+    background-color: var(--md-cards-color);
 }
 
 .nt-card > a {
