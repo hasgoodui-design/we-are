@@ -1,5 +1,5 @@
 ---
-title: Actually good UI Design
+title: We are hasgoodui.design
 
 hide:
   - navigation
