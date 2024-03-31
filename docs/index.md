@@ -10,32 +10,28 @@ hide:
 
 `hasgoodui.design` is a Domain used for pages listing questionable, stupid or even outright harmful Designs made by companies, services and alike.
 
-Our main goal is not to attack those individuals, but to poke fun at them and show their mistakes.<br>
-We also offer a site under the subdomain [`actually.hasgoodui.design`][actually-good]{ target="_blank" rel="nofollow noreferral noopener" } which lists some actually good UI designs.
+Our main goal is not to attack those individuals, but to poke fun at them and show their mistakes.  
+We also offer a site under the subdomain [`actually.hasgoodui.design`][actually-good]{ target="_blank" rel="nofollow" } which lists some actually good UI designs.
 
 ## Our Websites
 
 Below can you see a list of all sites hosted on the `hasgoodui.design` domain. Click them to visit the site.
 
-::cards::
+<div class="grid cards" markdown>
 
-[
-  {
-    "title": ":simple-discord: Discord<small>.hasgoodui.design</small>",
-    "content": "Showing the strange UI designs of Discord",
-    "url": "https://discord.hasgoodui.design"
-  },
-  {
-    "title": ":octicons-check-24: Actually<small>.hasgoodui.design</small>",
-    "content": "Some actual good UI designs",
-    "url": "https://actually.hasgoodui.design"
-  }
-]
+-   ### :simple-discord: Discord<small>.hasgoodui.design</small>
+    
+    Showing the strange UI designs and issues of Discord.
+    
+    [:octicons-chevron-right-24: Go to Page](https://discord.hasgoodui.design){ target="_blank" rel="nofollow" }
 
-::/cards::
+-   ### :octicons-check-24: Actually<small>.hasgoodui.design</small>
+    
+    Some actually good UI designs.
+    
+    [:octicons-chevron-right-24: Go to Page][actually-good]{ target="_blank" rel="nofollow" }
 
-
-
+</div>
 
 ## Submitting Entries
 
